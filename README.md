@@ -26,4 +26,4 @@ Art and renders live in [`/art`](art) · model notes in [`/models`](models).
 <!-- add images here, e.g. ![Aviator avatar](art/aviator.png) -->
 
 ---
-<sub>Portfolio site: https://elyanlabs.ai/lopieloo</sub>
+<sub>Website: https://lopie.net · Portfolio: https://elyanlabs.ai/lopieloo</sub>
